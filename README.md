@@ -1,4 +1,4 @@
-### Made for you 💐
+### Simple Discord Bot
 
 ## Simple Discord Moderation Bot
 
